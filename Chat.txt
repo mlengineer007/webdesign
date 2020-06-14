@@ -1,0 +1,83 @@
+﻿06/02/2020    17:59:36 PM    from rashmith reddy to Everyone:	hello proffesor
+06/02/2020    17:59:54 PM    from David McCullers to Everyone:	Hey, how's it going
+06/02/2020    18:00:01 PM    from Brendan Armstrong to Everyone:	Evening
+06/02/2020    18:00:12 PM    from rashmith reddy to Everyone:	looking forward to add it to my resume confidently, so far so good
+06/02/2020    18:01:10 PM    from rashmith reddy to Everyone:	front end
+06/02/2020    18:03:31 PM    from rashmith reddy to Everyone:	i did age gender recognition in machine learning, how should i add those algorithm to html page
+06/02/2020    18:03:54 PM    from Tim Rhoades to Everyone:	yes
+06/02/2020    18:03:57 PM    from Bhavani Ch to Everyone:	yes
+06/02/2020    18:04:19 PM    from Tim Rhoades to Everyone:	i see it
+06/02/2020    18:11:31 PM    from David McCullers to Everyone:	Thank you for taking the time to post notes on blackboard before class!
+06/02/2020    18:14:42 PM    from Brendan Armstrong to Everyone:	So more like a python list than a Java array
+06/02/2020    18:16:29 PM    from Tim Rhoades to Everyone:	i did
+06/02/2020    18:16:35 PM    from David McCullers to Everyone:	I installed the two but haven't done anything with them
+06/02/2020    18:16:37 PM    from Bhavani Ch to Everyone:	yes
+06/02/2020    18:19:51 PM    from Tim Rhoades to Everyone:	yep
+06/02/2020    18:19:52 PM    from Ravi Thapa to Everyone:	yes
+06/02/2020    18:19:53 PM    from David McCullers to Everyone:	I think I get it
+06/02/2020    18:21:45 PM    from Lakshmi Karthik Kallepalli to Everyone:	good
+06/02/2020    18:21:49 PM    from Krupa Patel to Everyone:	good
+06/02/2020    18:24:29 PM    from Tim Rhoades to Everyone:	i think im good
+06/02/2020    18:24:31 PM    from Ravi Thapa to Everyone:	good
+06/02/2020    18:27:57 PM    from David McCullers to Everyone:	Got it
+06/02/2020    18:28:05 PM    from Ravi Thapa to Everyone:	can we put commonly used values on the top  and sort for the rest of the values?
+06/02/2020    18:28:06 PM    from Lakshmi Karthik Kallepalli to Everyone:	it depends on ascii?
+06/02/2020    18:28:36 PM    from Tim Rhoades to Everyone:	yes
+06/02/2020    18:28:37 PM    from Lakshmi Karthik Kallepalli to Everyone:	yes
+06/02/2020    18:31:06 PM    from Tim Rhoades to Everyone:	yep
+06/02/2020    18:31:08 PM    from Lakshmi Karthik Kallepalli to Everyone:	yup
+06/02/2020    18:31:10 PM    from Brendan Armstrong to Everyone:	yes
+06/02/2020    18:31:49 PM    from David McCullers to Everyone:	@Ravi Thapa It sounds like you want to sort by metadata related to the use of the application - I think that'd be collected outside of php? But I'm not sure
+06/02/2020    18:32:29 PM    from Ravi Thapa to Everyone:	Thank you
+06/02/2020    18:32:54 PM    from Ravi Thapa to Everyone:	Got it
+06/02/2020    18:38:30 PM    from Tim Rhoades to Everyone:	yes
+06/02/2020    18:41:06 PM    from Lakshmi Karthik Kallepalli to Everyone:	with address
+06/02/2020    18:44:52 PM    from Lakshmi Karthik Kallepalli to Everyone:	yes
+06/02/2020    18:44:57 PM    from Tim Rhoades to Everyone:	yep
+06/02/2020    18:45:02 PM    from Ravi Thapa to Everyone:	yes
+06/02/2020    18:45:04 PM    from Krupa Patel to Everyone:	yep
+06/02/2020    18:46:09 PM    from David McCullers to Everyone:	Got it
+06/02/2020    18:50:47 PM    from Lakshmi Karthik Kallepalli to Everyone:	yup
+06/02/2020    18:50:48 PM    from Tim Rhoades to Everyone:	yes
+06/02/2020    18:50:49 PM    from David McCullers to Everyone:	Is the definition of global the current scope and lower levels inside of it or does it go to scopes outside of where it is defined as well?
+06/02/2020    18:50:53 PM    from Tim Rhoades to Everyone:	not yet
+06/02/2020    18:59:53 PM    from Tim Rhoades to Everyone:	good here
+06/02/2020    18:59:59 PM    from Lakshmi Karthik Kallepalli to Everyone:	yup
+06/02/2020    19:02:40 PM    from Tim Rhoades to Everyone:	do they store online shopping carts? like even when you arent signed into an account?
+06/02/2020    19:03:10 PM    from David McCullers to Everyone:	 Isn't that usually done with Database storage?
+06/02/2020    19:04:12 PM    from Hamza Khan to Everyone:	so what about flight booking websites ? they increase there ticket prices if you visit multiple times
+06/02/2020    19:04:21 PM    from David McCullers to Everyone:	Right, I see
+06/02/2020    19:04:54 PM    from Hamza Khan to Everyone:	roger
+06/02/2020    19:05:09 PM    from Tim Rhoades to Everyone:	ok got it, thank you
+06/02/2020    19:05:19 PM    from rashmith reddy to Everyone:	amazon does that
+06/02/2020    19:05:47 PM    from Hamza Khan to Everyone:	dark web :D
+06/02/2020    19:05:53 PM    from Hamza Khan to Everyone:	lol
+06/02/2020    19:09:03 PM    from David McCullers to Everyone:	Are you legally required to ask the user for permission to use cookies? Why do some websites bother asking?
+06/02/2020    19:09:15 PM    from Brendan Armstrong to Everyone:	It's a legal requirement in Europe
+06/02/2020    19:09:46 PM    from David McCullers to Everyone:	Wow okay, good to know
+06/02/2020    19:10:21 PM    from rashmith reddy to Everyone:	are cookies invloved to terminate sessions during online payment
+06/02/2020    19:17:00 PM    from Tim Rhoades to Everyone:	yes im following
+06/02/2020    19:17:02 PM    from Lakshmi Karthik Kallepalli to Everyone:	yes
+06/02/2020    19:17:06 PM    from David McCullers to Everyone:	Following
+06/02/2020    19:17:07 PM    from Brendan Armstrong to Everyone:	yes
+06/02/2020    19:17:08 PM    from Hamza Khan to Everyone:	yes
+06/02/2020    19:25:40 PM    from David McCullers to Everyone:	That makes sense, got it
+06/02/2020    19:28:02 PM    from David McCullers to Everyone:	Mhm
+06/02/2020    19:28:03 PM    from Brendan Armstrong to Everyone:	Yes
+06/02/2020    19:28:04 PM    from Ravi Thapa to Everyone:	yup
+06/02/2020    19:28:04 PM    from Tim Rhoades to Everyone:	yes all clear
+06/02/2020    19:31:41 PM    from Tim Rhoades to Everyone:	im good so far
+06/02/2020    19:31:57 PM    from David McCullers to Everyone:	No questions from me, using all of the tools in one sounds like a great idea to me!
+06/02/2020    19:31:57 PM    from Benjamin Martinez to Everyone:	all good so far
+06/02/2020    19:32:10 PM    from Ganesh Chandrasekaran to Everyone:	https://github.com/LobeM/todo-list
+06/02/2020    19:32:20 PM    from Tim Rhoades to Everyone:	thank you
+06/02/2020    19:33:21 PM    from Tim Rhoades to Everyone:	it works for me
+06/02/2020    19:36:00 PM    from Tim Rhoades to Everyone:	none from me
+06/02/2020    19:36:13 PM    from David McCullers to Everyone:	That example code from today will be included on Blackboard shortly as well, correct?
+06/02/2020    19:36:33 PM    from David McCullers to Everyone:	Yeah, I figured that was why!
+06/02/2020    19:36:39 PM    from David McCullers to Everyone:	But perfect, thank you
+06/02/2020    19:36:54 PM    from David McCullers to Everyone:	Did you take attendance?
+06/02/2020    19:36:58 PM    from Tim Rhoades to Everyone:	i guess ill see you all tomorrow
+06/02/2020    19:37:07 PM    from David McCullers to Everyone:	Alrighty, thanks take care
+06/02/2020    19:37:08 PM    from Nick Romeo to Everyone:	Have a great day!
+06/02/2020    19:37:21 PM    from Lakshmi Karthik Kallepalli to Everyone:	Thank you professor, see you tomorrow

@@ -1,0 +1,123 @@
+<html>
+<body>
+<head>
+    <title> 
+    login page
+    </title>
+</head>
+    <style>
+            body  {background-color:lightyellow;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;margin:auto;display:table;
+                   height:auto; }
+            tbody {color:blue;}
+            
+        .mandatory:after{
+            content: "*";
+            color: red
+                
+        }
+        
+    </style>
+    
+<form>
+    <br>
+<table>
+    <th> fill the details </th>
+    <tr>
+        <td class="mandatory">
+            <br>
+            <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;firstName:<input type="text" name="fistName" id="firstName">
+        </td>
+    </tr>
+    <br>
+    <tr>
+        <td class="mandatory">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lastName:<input type="text" name="lastName" id="lastName">
+        </td>
+    </tr>
+    <br>
+     <tr>
+        <td>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;password:<input type="password" name="pasword" id="password">
+        </td>
+    </tr>
+    <br>
+    <tr>
+        <td class="mandatory">
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;education:<select id="degree" name="Degree">
+    <option value="10th">10th</option>
+    <option value="12th">12th</option>
+    <option value="bachlors">bachlors</option>
+    <option value="masters">masters</option>
+    <options value="phd">phd</options>
+     <option value="gawar">gawar</option>
+    </select>
+        </td>
+    </tr>
+     <tr>
+        <td>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interests:<select id="intrests" size="4" multiple>
+    <option value="sports">sports</option>
+    <option value="arts">arts</option>
+    <option value="coding">coding</option>
+    <option value="law">law</option>
+    <options value="entertinemnet">entertinement</options>
+    </select>
+        </td>
+    </tr>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+<tr>
+    <td class="mandatory">
+        <br>
+        <br>
+        <br>
+        
+     gender:
+    
+    </td>
+    </tr>
+    
+    <tr>
+       <td>
+    
+         <label for="male">male</label>
+          <input type="radio" id="male" name="male">
+           <br>
+          <label for="female">female</label>
+          <input type="radio" id="female" name="female">
+        
+        </td>
+    </tr>
+    <br>
+    <br>
+    <br>
+    <tr>
+    <td>
+         <br>
+        <br>
+        
+         <label for="comments">comments</label>
+        
+        </td>    
+    </tr>
+    <tr>
+     <td>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<textarea name="comments" rows="10" cols="20">some comments</textarea>
+        </td>
+    
+    </tr>
+    <br>
+    <br>
+    <br>
+    
+    </table>
+    <input type="submit">
+    <input type="reset">
+    
+</form>
+</body>
+</html>
